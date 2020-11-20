@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\CONSTRUCTORS\bin\Debug\Constructors.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\CONSTRUCTORS\bin\Debug\Constructors.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\CONSTRUCTORS\obj\Debug\Constructors.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\CONSTRUCTORS\obj\Debug\Constructors.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\CONSTRUCTORS\obj\Debug\Constructors.pdb

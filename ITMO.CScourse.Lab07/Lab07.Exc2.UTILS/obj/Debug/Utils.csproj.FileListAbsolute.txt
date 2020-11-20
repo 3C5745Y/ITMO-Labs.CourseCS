@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc2.UTILS\obj\Debug\Utils.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc2.UTILS\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc2.UTILS\bin\Debug\Utils.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc2.UTILS\bin\Debug\Utils.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc2.UTILS\obj\Debug\Utils.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc2.UTILS\obj\Debug\Utils.pdb

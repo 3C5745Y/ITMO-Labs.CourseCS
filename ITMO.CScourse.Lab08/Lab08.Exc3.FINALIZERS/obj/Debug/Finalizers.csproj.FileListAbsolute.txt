@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Study\Lab09\STARTER\FINALIZERS\bin\Debug\Finalizers.exe
+\\Mac\Home\Documents\Study\Lab09\STARTER\FINALIZERS\bin\Debug\Finalizers.pdb
+\\Mac\Home\Documents\Study\Lab09\STARTER\FINALIZERS\obj\Debug\Finalizers.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Lab09\STARTER\FINALIZERS\obj\Debug\Finalizers.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Lab09\STARTER\FINALIZERS\obj\Debug\Finalizers.exe
+\\Mac\Home\Documents\Study\Lab09\STARTER\FINALIZERS\obj\Debug\Finalizers.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\Lab08.Exc3.FINALIZERS\bin\Debug\Finalizers.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\Lab08.Exc3.FINALIZERS\bin\Debug\Finalizers.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\Lab08.Exc3.FINALIZERS\obj\Debug\Finalizers.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\Lab08.Exc3.FINALIZERS\obj\Debug\Finalizers.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\Lab08.Exc3.FINALIZERS\obj\Debug\Finalizers.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab08\Lab08.Exc3.FINALIZERS\obj\Debug\Finalizers.pdb

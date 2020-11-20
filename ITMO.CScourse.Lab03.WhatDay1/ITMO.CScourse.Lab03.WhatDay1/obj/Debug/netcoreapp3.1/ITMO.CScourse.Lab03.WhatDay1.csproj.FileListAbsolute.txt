@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\bin\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\bin\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.deps.json
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\bin\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.runtimeconfig.json
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\bin\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.runtimeconfig.dev.json
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\bin\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.dll
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\bin\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\obj\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\obj\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\obj\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.AssemblyInfo.cs
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\obj\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\obj\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.dll
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\obj\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab03.WhatDay1\ITMO.CScourse.Lab03.WhatDay1\obj\Debug\netcoreapp3.1\ITMO.CScourse.Lab03.WhatDay1.genruntimeconfig.cache

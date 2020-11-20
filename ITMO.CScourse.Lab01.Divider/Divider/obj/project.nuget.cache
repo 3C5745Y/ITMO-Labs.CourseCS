@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7XNQesauvUDER0Wbrb8Ct4GmpJfRhqfGS5u1O2xxnADBiimDB6vdapj1QBfJHA6hVjcyCwmKcKPxIQ++Jmkrw==",
+  "success": false,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.CScourse.Lab01.Ex4.Divider\\Divider\\ITMO.CScourse.Divider.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for '\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.CScourse.Lab01.Ex4.Divider\\ITMO.CScourse.Divider.TestLibrary\\ITMO.CScourse.Divider.TestLibrary.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.CScourse.Lab01.Ex4.Divider\\ITMO.CScourse.Divider.TestLibrary\\ITMO.CScourse.Divider.TestLibrary.csproj",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

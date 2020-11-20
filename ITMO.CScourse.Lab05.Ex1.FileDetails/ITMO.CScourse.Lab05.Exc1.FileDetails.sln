@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMO.CScourse.FileDetails", "ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails.csproj", "{BF3A2067-12C7-448A-B9A3-1063D83C9AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3A2067-12C7-448A-B9A3-1063D83C9AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3A2067-12C7-448A-B9A3-1063D83C9AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3A2067-12C7-448A-B9A3-1063D83C9AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3A2067-12C7-448A-B9A3-1063D83C9AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2D121AD-7A09-4415-9848-28DDDD3BFFE3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc3.COPYFILEUPPER\bin\Debug\CopyFileUpper.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc3.COPYFILEUPPER\bin\Debug\CopyFileUpper.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc3.COPYFILEUPPER\obj\Debug\CopyFileUpper.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc3.COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc3.COPYFILEUPPER\obj\Debug\CopyFileUpper.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc3.COPYFILEUPPER\obj\Debug\CopyFileUpper.pdb

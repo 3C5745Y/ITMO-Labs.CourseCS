@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc4.INTERFACETEST\bin\Debug\Utils.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc4.INTERFACETEST\bin\Debug\Utils.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc4.INTERFACETEST\obj\Debug\InterfaceTest.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc4.INTERFACETEST\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc4.INTERFACETEST\obj\Debug\Utils.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc4.INTERFACETEST\obj\Debug\Utils.pdb

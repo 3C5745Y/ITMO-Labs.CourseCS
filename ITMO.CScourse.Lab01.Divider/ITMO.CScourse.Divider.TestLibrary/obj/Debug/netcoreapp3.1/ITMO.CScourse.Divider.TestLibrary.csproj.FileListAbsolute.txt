@@ -1,0 +1,9 @@
+\\Mac\Home\Documents\Study\Projects\Divider\ITMO.CScourse.Divider.TestLibrary\bin\Debug\netcoreapp3.1\ITMO.CScourse.Divider.TestLibrary.deps.json
+\\Mac\Home\Documents\Study\Projects\Divider\ITMO.CScourse.Divider.TestLibrary\bin\Debug\netcoreapp3.1\ITMO.CScourse.Divider.TestLibrary.dll
+\\Mac\Home\Documents\Study\Projects\Divider\ITMO.CScourse.Divider.TestLibrary\bin\Debug\netcoreapp3.1\ITMO.CScourse.Divider.TestLibrary.pdb
+\\Mac\Home\Documents\Study\Projects\Divider\ITMO.CScourse.Divider.TestLibrary\obj\Debug\netcoreapp3.1\ITMO.CScourse.Divider.TestLibrary.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\Divider\ITMO.CScourse.Divider.TestLibrary\obj\Debug\netcoreapp3.1\ITMO.CScourse.Divider.TestLibrary.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Study\Projects\Divider\ITMO.CScourse.Divider.TestLibrary\obj\Debug\netcoreapp3.1\ITMO.CScourse.Divider.TestLibrary.AssemblyInfo.cs
+\\Mac\Home\Documents\Study\Projects\Divider\ITMO.CScourse.Divider.TestLibrary\obj\Debug\netcoreapp3.1\ITMO.CScourse.Divider.TestLibrary.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\Divider\ITMO.CScourse.Divider.TestLibrary\obj\Debug\netcoreapp3.1\ITMO.CScourse.Divider.TestLibrary.dll
+\\Mac\Home\Documents\Study\Projects\Divider\ITMO.CScourse.Divider.TestLibrary\obj\Debug\netcoreapp3.1\ITMO.CScourse.Divider.TestLibrary.pdb

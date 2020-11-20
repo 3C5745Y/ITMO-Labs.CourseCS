@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab04.Utils\ITMO.CScourse.Lab04.Utils\obj\Debug\ITMO.CScourse.Lab04.Utils.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab04.Utils\ITMO.CScourse.Lab04.Utils\obj\Debug\ITMO.CScourse.Lab04.Utils.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab04.Utils\ITMO.CScourse.Lab04.Utils\bin\Debug\ITMO.CScourse.Lab04.Utils.exe.config
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab04.Utils\ITMO.CScourse.Lab04.Utils\bin\Debug\ITMO.CScourse.Lab04.Utils.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab04.Utils\ITMO.CScourse.Lab04.Utils\bin\Debug\ITMO.CScourse.Lab04.Utils.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab04.Utils\ITMO.CScourse.Lab04.Utils\obj\Debug\ITMO.CScourse.Lab04.Utils.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab04.Utils\ITMO.CScourse.Lab04.Utils\obj\Debug\ITMO.CScourse.Lab04.Utils.pdb

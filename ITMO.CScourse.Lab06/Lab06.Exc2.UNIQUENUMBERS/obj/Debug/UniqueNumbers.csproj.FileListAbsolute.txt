@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\UNIQUENUMBERS\bin\Debug\UniqueNumbers.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\UNIQUENUMBERS\obj\Debug\UniqueNumbers.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\UNIQUENUMBERS\obj\Debug\UniqueNumbers.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\UNIQUENUMBERS\obj\Debug\UniqueNumbers.pdb

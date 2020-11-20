@@ -1,0 +1,12 @@
+\\Mac\Home\Documents\Study\CSharpLabs\Lab08\STARTER\BANK\bin\Debug\MoreMethods.exe
+\\Mac\Home\Documents\Study\CSharpLabs\Lab08\STARTER\BANK\bin\Debug\MoreMethods.pdb
+\\Mac\Home\Documents\Study\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\Bank.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\MoreMethods.exe
+\\Mac\Home\Documents\Study\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\MoreMethods.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc1.BANK\bin\Debug\MoreMethods.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc1.BANK\bin\Debug\MoreMethods.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc1.BANK\obj\Debug\Bank.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc1.BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc1.BANK\obj\Debug\MoreMethods.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab07\Lab07.Exc1.BANK\obj\Debug\MoreMethods.pdb

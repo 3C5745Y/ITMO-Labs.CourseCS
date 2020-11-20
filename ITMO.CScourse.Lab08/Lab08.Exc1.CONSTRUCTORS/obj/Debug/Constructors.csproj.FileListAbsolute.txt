@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Study\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.exe
+\\Mac\Home\Documents\Study\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.pdb
+\\Mac\Home\Documents\Study\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.exe
+\\Mac\Home\Documents\Study\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.pdb

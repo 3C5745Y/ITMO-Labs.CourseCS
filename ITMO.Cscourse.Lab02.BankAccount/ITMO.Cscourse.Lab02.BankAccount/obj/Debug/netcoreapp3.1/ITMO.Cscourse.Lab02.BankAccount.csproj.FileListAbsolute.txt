@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\bin\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\bin\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.deps.json
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\bin\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.runtimeconfig.json
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\bin\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.runtimeconfig.dev.json
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\bin\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.dll
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\bin\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\obj\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\obj\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\obj\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.AssemblyInfo.cs
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\obj\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\obj\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.dll
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\obj\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.Cscourse.Lab02.BankAccount\ITMO.Cscourse.Lab02.BankAccount\obj\Debug\netcoreapp3.1\ITMO.Cscourse.Lab02.BankAccount.genruntimeconfig.cache

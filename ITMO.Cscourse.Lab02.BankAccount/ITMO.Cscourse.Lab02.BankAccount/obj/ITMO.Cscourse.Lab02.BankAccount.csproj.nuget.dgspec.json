@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Cscourse.Lab02.BankAccount\\ITMO.Cscourse.Lab02.BankAccount\\ITMO.Cscourse.Lab02.BankAccount.csproj": {}
+  },
+  "projects": {
+    "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Cscourse.Lab02.BankAccount\\ITMO.Cscourse.Lab02.BankAccount\\ITMO.Cscourse.Lab02.BankAccount.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Cscourse.Lab02.BankAccount\\ITMO.Cscourse.Lab02.BankAccount\\ITMO.Cscourse.Lab02.BankAccount.csproj",
+        "projectName": "ITMO.Cscourse.Lab02.BankAccount",
+        "projectPath": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Cscourse.Lab02.BankAccount\\ITMO.Cscourse.Lab02.BankAccount\\ITMO.Cscourse.Lab02.BankAccount.csproj",
+        "packagesPath": "C:\\Users\\olya\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Cscourse.Lab02.BankAccount\\ITMO.Cscourse.Lab02.BankAccount\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\olya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

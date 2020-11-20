@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\Lab06.Exc3.MOREMETHODS\bin\Debug\MoreMethods.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\Lab06.Exc3.MOREMETHODS\bin\Debug\MoreMethods.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\Lab06.Exc3.MOREMETHODS\obj\Debug\MoreMethods.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\Lab06.Exc3.MOREMETHODS\obj\Debug\MoreMethods.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\Lab06.Exc3.MOREMETHODS\obj\Debug\MoreMethods.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab06\Lab06.Exc3.MOREMETHODS\obj\Debug\MoreMethods.pdb

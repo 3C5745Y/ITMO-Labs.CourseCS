@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\bin\Debug\ITMO.CScourse.Lab05.Ex2.MatrixMultiply.exe.config
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\bin\Debug\ITMO.CScourse.Lab05.Ex2.MatrixMultiply.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\bin\Debug\ITMO.CScourse.Lab05.Ex2.MatrixMultiply.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\obj\Debug\ITMO.CScourse.Lab05.Ex2.MatrixMultiply.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\obj\Debug\ITMO.CScourse.Lab05.Ex2.MatrixMultiply.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\obj\Debug\ITMO.CScourse.Lab05.Ex2.MatrixMultiply.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\ITMO.CScourse.Lab05.Ex2.MatrixMultiply\obj\Debug\ITMO.CScourse.Lab05.Ex2.MatrixMultiply.pdb
