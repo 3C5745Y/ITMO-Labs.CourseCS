@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Cscourse.Lab02.StructType\\ITMO.Cscourse.Lab02.StructType\\ITMO.Cscourse.Lab02.StructType.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Labs.CourseCS\\ITMO.CScourse.Lab02.StructType\\ITMO.Cscourse.Lab02.StructType\\ITMO.Cscourse.Lab02.StructType.csproj",
       "projectName": "ITMO.Cscourse.Lab02.StructType",
-      "projectPath": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Cscourse.Lab02.StructType\\ITMO.Cscourse.Lab02.StructType\\ITMO.Cscourse.Lab02.StructType.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Labs.CourseCS\\ITMO.CScourse.Lab02.StructType\\ITMO.Cscourse.Lab02.StructType\\ITMO.Cscourse.Lab02.StructType.csproj",
       "packagesPath": "C:\\Users\\olya\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Cscourse.Lab02.StructType\\ITMO.Cscourse.Lab02.StructType\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.Labs.CourseCS\\ITMO.CScourse.Lab02.StructType\\ITMO.Cscourse.Lab02.StructType\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olya\\AppData\\Roaming\\NuGet\\NuGet.Config",
