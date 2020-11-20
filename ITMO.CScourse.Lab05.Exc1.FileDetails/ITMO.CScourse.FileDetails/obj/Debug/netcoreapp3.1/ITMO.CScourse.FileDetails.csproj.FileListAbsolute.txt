@@ -1,0 +1,13 @@
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\bin\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.exe
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\bin\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.deps.json
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\bin\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.runtimeconfig.json
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\bin\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.runtimeconfig.dev.json
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\bin\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.dll
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\bin\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\obj\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.csprojAssemblyReference.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\obj\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\obj\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.AssemblyInfo.cs
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\obj\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\obj\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.dll
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\obj\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.pdb
+\\Mac\Home\Documents\Study\Projects\ITMO.CScourse.FileDetails\ITMO.CScourse.FileDetails\obj\Debug\netcoreapp3.1\ITMO.CScourse.FileDetails.genruntimeconfig.cache

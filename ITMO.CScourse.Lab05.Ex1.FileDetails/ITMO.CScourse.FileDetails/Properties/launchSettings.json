@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "ITMO.CScourse.FileDetails": {
-      "commandName": "Project",
-      "commandLineArgs": "\\\\Mac\\Home\\Documents\\Study\\Projects\\ITMO.CScourse.FileDetails\\ITMO.CScourse.FileDetails\\FileDetails.cs"
-    }
-  }
-}
